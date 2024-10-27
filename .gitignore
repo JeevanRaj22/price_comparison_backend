@@ -1,0 +1,8 @@
+# Ignore sensitive files
+.env
+*.pyc
+__pycache__/
+
+# Ignore static and media files
+static/
+media/
